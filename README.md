@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Yitao 👋
 
-<!--
-**Yitao-0516/Yitao-0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student at the Tsung-Dao Lee Institute, Shanghai Jiao Tong University, advised by Prof. Dong Lai.
 
-Here are some ideas to get you started:
+🪐 My research explores the dynamics of protoplanetary disks—the birthplaces of planets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm currently wrapping up a project investigating the transient nature and asymmetry of Lagrangian traps in protoplanetary disks.
+
+💬 Happy to chat about disk dynamics, planet formation, and the puzzles that keep us staring at simulation outputs.
+
+📫 Reach me at: **jdpanyitao@sjtu.edu.cn**
+
+---
+
+✨ Following the dust, chasing the physics, and occasionally getting trapped in my own life.
