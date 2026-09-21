@@ -9,7 +9,3 @@ I'm a PhD student at the Tsung-Dao Lee Institute, Shanghai Jiao Tong University,
 💬 Happy to chat about disk dynamics, planet formation, and the puzzles that keep us staring at the universe.
 
 📫 Reach me at: **jdpanyitao@sjtu.edu.cn**
-
----
-
-✨ Following the dust, chasing the physics, and occasionally getting trapped in my own life.
